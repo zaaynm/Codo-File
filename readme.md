@@ -82,7 +82,3 @@
 
   ### 10. Register Page
   ![RegisterPage](./documentation/Project%20Assets/RegisterPage.PNG)
-
-## [ B ] Contributor
-
-### - This Whole Project Solely Belong to **[Faizan Alam](https://faizan619.github.io/Faizan_Portfolio/)**.
